@@ -3,6 +3,8 @@ Clasificación usando k-NN
 -----------------------------------------------------------------------------------------
 
 """
+import pandas as pd
+
 def pregunta_01():
     """
     Complete el código presentado a continuación.
